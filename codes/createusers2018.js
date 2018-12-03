@@ -175,11 +175,11 @@ var footer = '\
       <hr/>\
       <h4>常用软件:</h4>\
       <ul>\
-      <li><a href="./npp.7.5.3.Installer.exe">NotePad++</a></li>\
-      <li><a href="./node-v8.9.4-x64.msi">NodeJS</a></li>\
-      <li><a href="./python-3.6.4-amd64.exe">Python3</a></li>\
-      <li><a href="./MySQL-Front_Setup.exe">MySQL-Front 6.1</a></li>\
-      <li><a href="./PortableGit-2.19.1-64-bit.7z.exe">Git for Windows Portable</a></li>\
+      <li><a href="./softwares/npp.7.5.3.Installer.exe">NotePad++</a></li>\
+      <li><a href="./softwares/node-v8.9.4-x64.msi">NodeJS</a></li>\
+      <li><a href="./softwares/python-3.6.4-amd64.exe">Python3</a></li>\
+      <li><a href="./softwares/MySQL-Front_Setup.exe">MySQL-Front 6.1</a></li>\
+      <li><a href="./softwares/PortableGit-2.19.1-64-bit.7z.exe">Git for Windows Portable</a></li>\
       <li><a href="https://yk3.gokuai.com/file/20h7w1cn#">Softwares for JavaWeb Development</a></li>\
       </ul>\
     </div> <!-- /container -->\
