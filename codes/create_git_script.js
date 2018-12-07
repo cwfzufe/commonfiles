@@ -179,6 +179,7 @@ var footer = '\
       <li><a href="./softwares/node-v8.9.4-x64.msi">NodeJS</a></li>\
       <li><a href="./softwares/python-3.6.4-amd64.exe">Python3</a></li>\
       <li><a href="./softwares/MySQL-Front_Setup.exe">MySQL-Front 6.1</a></li>\
+      <li><a href="./softwares/Git-2.19.1-64-bit.exe">Git for Windows</a></li>\
       <li><a href="./softwares/PortableGit-2.19.1-64-bit.7z.exe">Git for Windows Portable</a></li>\
       <li><a href="https://yk3.gokuai.com/file/20h7w1cn#">Softwares for JavaWeb Development</a></li>\
       </ul>\
