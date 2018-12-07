@@ -167,7 +167,7 @@ var header = ' \
   <body>\
     <div class="container">\
       <h1>前端开发技术作业</h1>\
-      <p class="lead">每个整点更新一次（彩云提交作业手动更新）。登记Git地址请<a href="http://www.mycourse.top:8080/hello18/>访问这里</a>，务必勾选公开代码选项</p>\
+      <p class="lead">每个整点更新一次（彩云提交作业手动更新）。登记Git地址请<a href="http://www.mycourse.top:8080/hello18/">访问这里</a>，务必勾选公开代码选项。</p>\
       <div class="row">'
 var footer = '\
       </div> \
