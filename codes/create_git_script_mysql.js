@@ -148,7 +148,7 @@ db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, 
   var students = data;
 
   for (var i=0; i < students.length; i++) {
-    var ostr = `sudo git clone ${students[i].stuId} ${students[i].gitUrl}\n`
+    var ostr = `sudo git clone ${students[i].gitUrl} ${students[i].stuId}\n`
     fs.writeFileSync(filename1, ostr, {flag: 'a'}, function(err){
       if (err) {
         console.log (err)
