@@ -84,7 +84,7 @@ var idnames = {
   "180110910840":"朱骁"
 }
 
-var db = mysql.createConnection({host:'localhost', user:'cwf', password:'123456', database:'jsp2018'});
+var db = mysql.createConnection({host:'www.mycourse.top', user:'cwf', password:'123456', database:'jsp2018xx'});
 
 db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, data){
 
