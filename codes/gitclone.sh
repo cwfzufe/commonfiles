@@ -14,6 +14,7 @@ sudo git clone https://git.dev.tencent.com/hfxp/180110910711.git 180110910711
 sudo git clone https://git.dev.tencent.com/a735582174/hch.git 180110910712
 sudo git clone https://git.dev.tencent.com/meng_jin/180110910715.git 180110910715
 sudo git clone https://git.coding.net/caesar77/180110910716.git 180110910716
+sudo git clone https://git.dev.tencent.com/dtid_a1a63cc3a0d68a0d/180110910717.git 180110910717
 sudo git clone https://git.dev.tencent.com/yuanyuan/180110910720.git 180110910720
 sudo git clone https://git.dev.tencent.com/liu-lang/180110910721.git 180110910721
 sudo git clone https://git.dev.tencent.com/RX180110910722/180110910722.git 180110910722
@@ -38,7 +39,7 @@ sudo git clone https://git.dev.tencent.com/shenshuoyao/123152456.git 18011091080
 sudo git clone https://git.dev.tencent.com/CHEN1412362876/180110910806.git 180110910806
 sudo git clone https://git.coding.net/cxpawh/cx.git 180110910807
 sudo git clone https://git.dev.tencent.com/cyx19991019/180110910808cyx.git 180110910808
-sudo git clone https://git.dev.tencent.com/csk___/0001.git 180110910809
+sudo git clone https://git.dev.tencent.com/csk___/180110910809.git 180110910809
 sudo git clone https://git.coding.net/diyanqinsss/180110910810.git 180110910810
 sudo git clone https://git.coding.net/hutingwen/180110910811.git 180110910811
 sudo git clone https://git.dev.tencent.com/hlm1212/180110910812.git 180110910812
@@ -46,10 +47,11 @@ sudo git clone https://git.dev.tencent.com/hanae/180110910813.git 180110910813
 sudo git clone https://git.dev.tencent.com/isamura/180110910814.git 180110910814
 sudo git clone https://git.dev.tencent.com/liangzhaohui/180110910815.git 180110910815
 sudo git clone https://git.dev.tencent.com/ljylfl/180110910816.git 180110910816
-sudo git clone https://git.dev.tencent.com/wdqlyw/180110910817.git 180110910817
+sudo git clone https://git.dev.tencent.com/wdqlyw/lyw180110910817.git 180110910817
 sudo git clone https://git.coding.net/lycono/180110910818.git 180110910818
 sudo git clone https://git.dev.tencent.com/dtid_0ade3de2a58820f3/180110910820.git 180110910820
 sudo git clone https://git.dev.tencent.com/jiandenglong/s888.git 180110910821
+sudo git clone https://git.dev.tencent.com/a807196833/11.30.git 180110910822
 sudo git clone http://git.dev.tencent.com/sqssq/180110910823.git 180110910823
 sudo git clone https://git.dev.tencent.com/syjkby/zuoye.git 180110910825
 sudo git clone https://git.dev.tencent.com/JingRann/180110910828.git 180110910828
