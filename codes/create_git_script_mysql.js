@@ -169,15 +169,17 @@ db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, 
   var ids = Object.keys(idnames)
   for (var i=0; i < ids.length; i++) {
     var submitted = false;
+    var stu = null;
     var key = ids[i];
     for (var j=0; j < students.length; j++) {
       if (key == students[j].stuId) {
         submitted = true;
+        stu = students[j];
         break;
       }
     }
     if (submitted == true) {
-      body += `<div class="col-6 col-sm-3 col-md-2"><a href="./homework/${ids[i]}">${ids[i]}<br>${idnames[ids[i]]}</a></div>`
+      body += `<div class="col-6 col-sm-3 col-md-2"><a href="./homework/${ids[i]}">${ids[i]}<br>${idnames[ids[i]]}</a>&nbsp;<a href="${stu.gitUrl}" target="_blank">Git>></a></div>`
     } else {
       body += `<div class="col-6 col-sm-3 col-md-2">${ids[i]}<br>${idnames[ids[i]]}</div>`
     }
