@@ -54,7 +54,7 @@ sudo git clone https://git.dev.tencent.com/wdqlyw/lyw180110910817.git 1801109108
 sudo git clone https://git.coding.net/lycono/180110910818.git 180110910818
 sudo git clone https://git.dev.tencent.com/dtid_0ade3de2a58820f3/180110910820.git 180110910820
 sudo git clone https://git.dev.tencent.com/jiandenglong/s888.git 180110910821
-sudo git clone https://git.dev.tencent.com/a807196833/11.30.git 180110910822
+sudo git clone https://git.dev.tencent.com/a807196833/180110910822new.git 180110910822
 sudo git clone http://git.dev.tencent.com/sqssq/180110910823.git 180110910823
 sudo git clone https://git.dev.tencent.com/syjkby/zuoye.git 180110910825
 sudo git clone https://git.dev.tencent.com/wbz980813/180110910827.git 180110910827

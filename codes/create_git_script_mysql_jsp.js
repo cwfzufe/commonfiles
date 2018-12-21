@@ -123,7 +123,8 @@ db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, 
   }
 
   for (var i=0; i < students.length; i++) {
-    var ostr = `cd ~/Desktop/2018jsp-homework/${students[i].stuId}` + ' && git pull\n'
+    var ostr = `echo "${students[i].stuId}"\n`
+    ostr += `cd ~/Desktop/2018jsp-homework/${students[i].stuId}` + ' && git pull\n'
     fs.writeFileSync(filename2, ostr, {flag: 'a'}, function(err){
       if (err) {
         console.log (err)
