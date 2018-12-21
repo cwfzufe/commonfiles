@@ -36,7 +36,7 @@ sudo git clone https://git.coding.net/zhengfu/zhengfu_new.git 180110910737
 sudo git clone https://git.dev.tencent.com/dtid_968764b081b447be/asdfasf.git 180110910738
 sudo git clone https://git.coding.net/qcloudabe77d/1234.git 180110910739
 sudo git clone https://git.dev.tencent.com/zhuIrving/180110910740.git 180110910740
-sudo git clone https://git.dev.tencent.com/swfzufe/internet2018.git 180110910802
+sudo git clone https://git.coding.net/chx1118/chx.git 180110910802
 sudo git clone https://git.dev.tencent.com/theAhnoo/laozongzhenlaji.git 180110910804
 sudo git clone https://git.dev.tencent.com/shenshuoyao/123152456.git 180110910805
 sudo git clone https://git.dev.tencent.com/CHEN1412362876/180110910806.git 180110910806
@@ -52,6 +52,7 @@ sudo git clone https://git.dev.tencent.com/liangzhaohui/180110910815.git 1801109
 sudo git clone https://git.dev.tencent.com/ljylfl/180110910816.git 180110910816
 sudo git clone https://git.dev.tencent.com/wdqlyw/lyw180110910817.git 180110910817
 sudo git clone https://git.coding.net/lycono/180110910818.git 180110910818
+sudo git clone https://git.dev.tencent.com/n180110910819/180110910819.git 180110910819
 sudo git clone https://git.dev.tencent.com/dtid_0ade3de2a58820f3/180110910820.git 180110910820
 sudo git clone https://git.dev.tencent.com/jiandenglong/s888.git 180110910821
 sudo git clone https://git.dev.tencent.com/a807196833/180110910822new.git 180110910822
@@ -60,6 +61,7 @@ sudo git clone https://git.dev.tencent.com/syjkby/zuoye.git 180110910825
 sudo git clone https://git.dev.tencent.com/wbz980813/180110910827.git 180110910827
 sudo git clone https://git.dev.tencent.com/JingRann/180110910828.git 180110910828
 sudo git clone https://git.dev.tencent.com/dtid_9885fcee3e96ba9a/2018.11.23-1.git 180110910829
+sudo git clone https://git.dev.tencent.com/woshiahong/180110910831.git 180110910831
 sudo git clone https://git.dev.tencent.com/dtid_3d980968ac051705/zuoye.git 180110910832
 sudo git clone https://git.dev.tencent.com/yydlrb/yy.git 180110910833
 sudo git clone https://git.dev.tencent.com/Antoine/180110910834.git 180110910834

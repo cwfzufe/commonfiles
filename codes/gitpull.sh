@@ -54,6 +54,7 @@ cd /var/www/html/homework/180110910815 && sudo git pull
 cd /var/www/html/homework/180110910816 && sudo git pull
 cd /var/www/html/homework/180110910817 && sudo git pull
 cd /var/www/html/homework/180110910818 && sudo git pull
+cd /var/www/html/homework/180110910819 && sudo git pull
 cd /var/www/html/homework/180110910820 && sudo git pull
 cd /var/www/html/homework/180110910821 && sudo git pull
 cd /var/www/html/homework/180110910822 && sudo git pull
@@ -62,6 +63,7 @@ cd /var/www/html/homework/180110910825 && sudo git pull
 cd /var/www/html/homework/180110910827 && sudo git pull
 cd /var/www/html/homework/180110910828 && sudo git pull
 cd /var/www/html/homework/180110910829 && sudo git pull
+cd /var/www/html/homework/180110910831 && sudo git pull
 cd /var/www/html/homework/180110910832 && sudo git pull
 cd /var/www/html/homework/180110910833 && sudo git pull
 cd /var/www/html/homework/180110910834 && sudo git pull
