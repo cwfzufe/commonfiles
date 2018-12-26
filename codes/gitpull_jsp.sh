@@ -17,10 +17,14 @@ echo "160104100235"
 cd ~/Desktop/2018jsp-homework/160104100235 && git pull
 echo "170104130101"
 cd ~/Desktop/2018jsp-homework/170104130101 && git pull
+echo "170104130102"
+cd ~/Desktop/2018jsp-homework/170104130102 && git pull
 echo "170104130103"
 cd ~/Desktop/2018jsp-homework/170104130103 && git pull
 echo "170104130104"
 cd ~/Desktop/2018jsp-homework/170104130104 && git pull
+echo "170104130105"
+cd ~/Desktop/2018jsp-homework/170104130105 && git pull
 echo "170104130106"
 cd ~/Desktop/2018jsp-homework/170104130106 && git pull
 echo "170104130109"
@@ -53,6 +57,8 @@ echo "170104130123"
 cd ~/Desktop/2018jsp-homework/170104130123 && git pull
 echo "170104130124"
 cd ~/Desktop/2018jsp-homework/170104130124 && git pull
+echo "170104130125"
+cd ~/Desktop/2018jsp-homework/170104130125 && git pull
 echo "170104130126"
 cd ~/Desktop/2018jsp-homework/170104130126 && git pull
 echo "170104130128"
@@ -61,10 +67,14 @@ echo "170104130130"
 cd ~/Desktop/2018jsp-homework/170104130130 && git pull
 echo "170104130131"
 cd ~/Desktop/2018jsp-homework/170104130131 && git pull
+echo "170104130132"
+cd ~/Desktop/2018jsp-homework/170104130132 && git pull
 echo "170104130133"
 cd ~/Desktop/2018jsp-homework/170104130133 && git pull
 echo "170104130134"
 cd ~/Desktop/2018jsp-homework/170104130134 && git pull
+echo "170104130137"
+cd ~/Desktop/2018jsp-homework/170104130137 && git pull
 echo "170104130138"
 cd ~/Desktop/2018jsp-homework/170104130138 && git pull
 echo "170104130140"
