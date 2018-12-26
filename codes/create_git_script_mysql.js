@@ -119,6 +119,7 @@ db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, 
     <body>\
       <div class="container">\
         <h1>前端开发技术作业</h1>\
+        <h5><a href="index_jsp.html">JSP作业请移步这里</a></h5>\
         <p class="lead">每个整点更新一次（彩云提交作业<a href="/homework/caiyun">点击这里查看</a>）。登记Git地址请<a href="http://www.mycourse.top:8080/hello18/">访问这里</a>，务必勾选公开代码选项。</p>\
         <div class="row">'
   var footer = '\
