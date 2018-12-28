@@ -13,6 +13,7 @@ git clone https://git.coding.net/Yudan_Chan/HelloWorld_cyd.git 170104130103
 git clone https://git.dev.tencent.com/chenyueyilihe/170104130104.git 170104130104
 git clone http：//dev.tencent.com/u/czr121569359/p/170104130105/git 170104130105
 git clone https://git.coding.net/youerle/helloworld.git 170104130106
+git clone http://github.com/fjm1018/bigpower 170104130108
 git clone https://gitee.com/h_oogle/helloword.git 170104130109
 git clone https://git.coding.net/oceanside52/HelloWorld.git 170104130110
 git clone https://github.com/Vicky0708/Java 170104130112
@@ -36,6 +37,7 @@ git clone https://github.com/slowpon/jsp 170104130131
 git clone https://github.com/naibao/hahaha 170104130132
 git clone https://github.com/zhangxp1128/zhangxp1128 170104130133
 git clone https://git.dev.tencent.com/zlq1234/170104130134.git 170104130134
+git clone https://gitee.com/zcm1070378969/jsp.git 170104130135
 git clone https://gitee.com/zhouxiang1234/jsp/tree/master 170104130137
 git clone https://git.dev.tencent.com/Garvin9/170104130138.git 170104130138
 git clone https://git.coding.net/fdeaas/170104130140.git 170104130140

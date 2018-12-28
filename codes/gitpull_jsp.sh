@@ -27,6 +27,8 @@ echo "170104130105"
 cd ~/Desktop/2018jsp-homework/170104130105 && git pull
 echo "170104130106"
 cd ~/Desktop/2018jsp-homework/170104130106 && git pull
+echo "170104130108"
+cd ~/Desktop/2018jsp-homework/170104130108 && git pull
 echo "170104130109"
 cd ~/Desktop/2018jsp-homework/170104130109 && git pull
 echo "170104130110"
@@ -73,6 +75,8 @@ echo "170104130133"
 cd ~/Desktop/2018jsp-homework/170104130133 && git pull
 echo "170104130134"
 cd ~/Desktop/2018jsp-homework/170104130134 && git pull
+echo "170104130135"
+cd ~/Desktop/2018jsp-homework/170104130135 && git pull
 echo "170104130137"
 cd ~/Desktop/2018jsp-homework/170104130137 && git pull
 echo "170104130138"
