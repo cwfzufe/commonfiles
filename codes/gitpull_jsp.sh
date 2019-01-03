@@ -81,5 +81,7 @@ echo "170104130137"
 cd ~/Desktop/2018jsp-homework/170104130137 && git pull
 echo "170104130138"
 cd ~/Desktop/2018jsp-homework/170104130138 && git pull
+echo "170104130139"
+cd ~/Desktop/2018jsp-homework/170104130139 && git pull
 echo "170104130140"
 cd ~/Desktop/2018jsp-homework/170104130140 && git pull

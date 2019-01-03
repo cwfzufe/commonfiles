@@ -5,8 +5,8 @@ git clone https://git.coding.net/cwfzufe/Javaweb2018.git 1001
 git clone 暂无 150120400215
 git clone https://git.coding.net/yitiana/helloworld.git 160104100111
 git clone https://git.dev.tencent.com/zm98/HelloWorld.git 160104100140
-git clone https://git.coding.net/yym229/yanyinmei.jsp.item.git 160104100229
-git clone https://git.dev.tencent.com/yuanling/yuanling.jsp.git 160104100235
+git clone https://git.coding.net/yym229/qimo.git 160104100229
+git clone https://git.dev.tencent.com/yuanling/yl.git 160104100235
 git clone https://git.dev.tencent.com/caifengyan/caifengyan.git 170104130101
 git clone https://git.dev.tencent.com/chenshiwei/170104130102.git 170104130102
 git clone https://git.coding.net/Yudan_Chan/HelloWorld_cyd.git 170104130103
@@ -40,4 +40,5 @@ git clone https://git.dev.tencent.com/zlq1234/170104130134.git 170104130134
 git clone https://gitee.com/zcm1070378969/jsp.git 170104130135
 git clone https://gitee.com/zhouxiang1234/jsp/tree/master 170104130137
 git clone https://git.dev.tencent.com/Garvin9/170104130138.git 170104130138
+git clone https://github.com/zxcvbnm1130/java.git 170104130139
 git clone https://git.coding.net/fdeaas/170104130140.git 170104130140
