@@ -16,6 +16,8 @@ sudo git clone https://git.dev.tencent.com/a735582174/hch.git 180110910712
 sudo git clone https://git.dev.tencent.com/meng_jin/180110910715.git 180110910715
 sudo git clone https://git.coding.net/caesar77/180110910716.git 180110910716
 sudo git clone https://git.dev.tencent.com/dtid_a1a63cc3a0d68a0d/180110910717.git 180110910717
+sudo git clone https://git.dev.tencent.com/lixinyi/180110910718.git 180110910718
+sudo git clone https://git.dev.tencent.com/lxa910719/180110910719.git 180110910719
 sudo git clone https://git.dev.tencent.com/joanshener/bj.git 180110910720
 sudo git clone https://git.dev.tencent.com/liu-lang/180110910721.git 180110910721
 sudo git clone https://git.dev.tencent.com/RX180110910722/180110910722.git 180110910722
@@ -61,6 +63,7 @@ sudo git clone https://git.dev.tencent.com/syjkby/zuoye.git 180110910825
 sudo git clone https://git.dev.tencent.com/wbz980813/180110910827.git 180110910827
 sudo git clone https://git.dev.tencent.com/JingRann/180110910828.git 180110910828
 sudo git clone https://git.dev.tencent.com/dtid_9885fcee3e96ba9a/2018.11.23-1.git 180110910829
+sudo git clone https://git.dev.tencent.com/dtid_7faac10d37161e3d/homework.git 180110910830
 sudo git clone https://git.dev.tencent.com/woshiahong/180110910831.git 180110910831
 sudo git clone https://git.dev.tencent.com/dtid_3d980968ac051705/zuoye.git 180110910832
 sudo git clone https://git.dev.tencent.com/yydlrb/yy.git 180110910833
