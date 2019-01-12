@@ -119,10 +119,10 @@ db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, 
     <body>\
       <div class="container">\
         <h1>前端开发技术作业</h1>\
-        <h5><a href="index_jsp.html">JSP作业请移步这里</a></h5>\
+        <!-- <h5><a href="index_jsp.html">JSP作业请移步这里</a></h5> -->\
         <p class="lead">每个整点更新一次（彩云提交作业<a href="/homework/caiyun">点击这里查看</a>）。</p>\
         <p>目前已停止Git地址的登记与更改，已登记的同学不受影响，请访问下面的链接查看自己的作业是否完整。</p>\
-        <p>如未登记Git地址或重新创建了Git项目导致地址变化，请将所有作业上传至彩云，并通知老师<a href="mailto:cwf818@gmail.com">发送邮件cwf818@gmail.com</a>。</p>\
+        <p>如未登记Git地址，或重新创建了Git项目导致地址变化，或在未登录自己账号的情况下访问下方自己的Git链接无法获取代码的同学，请将所有作业打包上传至彩云，并通知老师<a href="mailto:cwf818@gmail.com">发送邮件cwf818@gmail.com</a>。</p>\
         <p>相关课件资料请访问<a href="https://dev.tencent.com/u/cwfzufe/p/Internet2018/git">https://dev.tencent.com/u/cwfzufe/p/Internet2018/git</a></p>\
         <div class="row">'
   var footer = '\
@@ -183,7 +183,7 @@ db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, 
       }
     }
     if (submitted == true) {
-      body += `<div class="col-6 col-sm-3 col-md-2"><a href="./homework/${ids[i]}">${ids[i]}<br>${idnames[ids[i]]}</a>&nbsp;<a href="${stu.gitUrl}" target="_blank">Git>></a></div>`
+      body += `<div class="col-6 col-sm-3 col-md-2"><a href="./homework/${ids[i]}">${ids[i]}</a><br>${idnames[ids[i]]}&nbsp;<a href="${stu.gitUrl}" target="_blank">Git>></a></div>`
     } else {
       body += `<div class="col-6 col-sm-3 col-md-2">${ids[i]}<br>${idnames[ids[i]]}</div>`
     }
