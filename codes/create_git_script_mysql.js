@@ -123,6 +123,7 @@ db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, 
         <p class="lead">每个整点更新一次（彩云提交作业<a href="/homework/caiyun">点击这里查看</a>）。</p>\
         <p>目前已停止Git地址的登记与更改，已登记的同学不受影响，请访问下面的链接查看自己的作业是否完整。</p>\
         <p>如未登记Git地址或重新创建了Git项目导致地址变化，请将所有作业上传至彩云，并通知老师<a href="mailto:cwf818@gmail.com">发送邮件cwf818@gmail.com</a>。</p>\
+        <p>相关课件资料请访问<a href="https://dev.tencent.com/u/cwfzufe/p/Internet2018/git">https://dev.tencent.com/u/cwfzufe/p/Internet2018/git</a></p>\
         <div class="row">'
   var footer = '\
         </div> \
