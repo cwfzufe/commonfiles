@@ -120,7 +120,9 @@ db.query('SELECT stuId, gitUrl FROM tb_users WHERE gitUrl <> ""', function(err, 
       <div class="container">\
         <h1>前端开发技术作业</h1>\
         <h5><a href="index_jsp.html">JSP作业请移步这里</a></h5>\
-        <p class="lead">每个整点更新一次（彩云提交作业<a href="/homework/caiyun">点击这里查看</a>）。登记Git地址请<a href="http://www.mycourse.top:8080/hello18/">访问这里</a>，务必勾选公开代码选项。</p>\
+        <p class="lead">每个整点更新一次（彩云提交作业<a href="/homework/caiyun">点击这里查看</a>）。</p>\
+        <p>目前已停止Git地址的登记与更改，已登记的同学不受影响，请访问下面的链接查看自己的作业是否完整。</p>\
+        <p>如未登记Git地址或重新创建了Git项目导致地址变化，请将所有作业上传至彩云，并通知老师<a href="mailto:cwf818@gmail.com">发送邮件cwf818@gmail.com</a>。</p>\
         <div class="row">'
   var footer = '\
         </div> \
